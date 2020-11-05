@@ -19,7 +19,7 @@ export default function Logo() {
 }
 const styles = StyleSheet.create({
     imageprop: {
-        width: 60,
+        width: 70,
         height: 60,
         marginTop:5,
         marginLeft:70
